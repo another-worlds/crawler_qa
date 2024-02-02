@@ -1,7 +1,7 @@
 TODO:
 
 Milestones(branches):
-1) Crawler documentation walkthrough https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+1) Crawler documentation walkthrough https://docs.scrapy.org/en/latest/
     a. Scrape one page, extract relevant text
     b. Scrape entire website, extract all relevant text
 2) RAG walkthrough https://python.langchain.com/docs/expression_language/cookbook/retrieval
